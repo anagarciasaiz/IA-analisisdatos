@@ -1,5 +1,5 @@
 # IA-analisisdatos
-no se por que no se el archivo, te dejo por aquí capturas 
+no se por que no se ve  el archivo, te dejo por aquí capturas 
 <img width="960" alt="Captura de pantalla 2024-02-05 164810" src="https://github.com/anagarciasaiz/IA-analisisdatos/assets/116553250/b4492c8e-e887-4793-99de-1469c49e3fcb">
 
 <img width="960" alt="Captura de pantalla 2024-02-05 164821" src="https://github.com/anagarciasaiz/IA-analisisdatos/assets/116553250/448fc541-0bc6-473f-984e-78cf60988f9b">
